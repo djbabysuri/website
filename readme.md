@@ -11,5 +11,5 @@ This is a  descriptive breakdown of the qD&A website update. The website is bein
 - [x] connect.html- A contact form for visitors to use in order to learn more about qD&A and/or request services. 
 
 ## Future Components:
-* Update CSS to review excess white space at bottom of page
+* Update CSS to remove excess white space at bottom of page
 * Swap out current form on "shall we?" page using html inputs and javascript
